@@ -45,8 +45,8 @@ python -m pip install numpy matplotlib scipy pandas
 Clone the repository:
 
 ```bash
-git clone https://github.com/kariukiii-oss/Scientific-Computing..git
-cd Scientific-Computing.
+git clone https://github.com/KevKiprotich/Scientific-Computing..git
+cd Scientific-Computing
 ```
 
 Run an example:
