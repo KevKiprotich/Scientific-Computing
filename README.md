@@ -1,4 +1,3 @@
-# Scientific-Computing
 
 # Scientific-Computing.
 A collection of Python exercises exploring numerical methods and scientific computing concepts through practical, real-world examples.
